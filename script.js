@@ -14,7 +14,7 @@ function getKhodam(name) {
         "Kuda Terbang", "Burung Hantu Bisu", "Semut Gaib", "Kura-Kura Ngebut",
         "Hiu Ngamuk", "Bebek Ngepot", "Ular Disko", "Keong Sakti",
         "Tikus Ajaib", "Buaya Darat", "Kadal Mutant", "Merpati Gaib",
-        "Domba Lucu", "Panda Sakti", "Cacing Gaul", "Lumba-Lumba Nyanyi", "Raja Singa", "Tuyul Kayang"
+        "Domba Lucu", "Panda Sakti", "Cacing Gaul", "Lumba-Lumba Nyanyi", "Raja Singa", "Tuyul Kayang", "Kosong"
     ];
 
     // Menggunakan bilangan acak untuk memilih khodam
